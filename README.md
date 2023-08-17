@@ -12,6 +12,18 @@
 </p>
 
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >    
+</div>
 
 
 
@@ -20,6 +32,44 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leevandr&theme=solarized_dark"/>
   </a>
 </p>
+
+
+
+<div align="center" style="background-color: #f3f3f3; padding: 10px;">
+  <h2 style="font-family: 'Arial', sans-serif; color: #333;">My Technologies</h2>
+</div>
+
+[![Java Badge](https://img.shields.io/badge/Java-FF8000?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
+  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
