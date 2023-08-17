@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/Leevandr" style="text-decoration: none;">
-    <img src="https://leetcard.jacoblin.cool/Levandr?theme=nord&font=BIZ%20UDMincho"/>
+    <img src="https://leetcard.jacoblin.cool/Levandr?theme=nord&font=BIZ%20UDMincho&ext=activity"/>
   </a>
 </p>
 
