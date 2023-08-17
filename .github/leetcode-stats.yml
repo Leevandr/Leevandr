@@ -1,8 +1,29 @@
-name: LeetCode
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.leetcode.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_leetcode: yes
-  plugin_leetcode_sections: solved, skills, recent
+name: LeetCode Stats
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Set up Java
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'adopt'
+        java-version: '11'
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+        
+    - name: Install LeetCode Metrics
+      run: npm install -g @lowlighter/metrics@latest
+      
+    - name: Generate LeetCode Metrics SVG
+      run: metrics generate --plugins leetcode --name metrics.plugin.leetcode.svg
