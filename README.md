@@ -12,20 +12,6 @@
 </p>
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >    
-</div>
-
-
 
 <p align="center">
   <a href="https://github.com/Leevandr" style="text-decoration: none;">
@@ -46,18 +32,6 @@
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >  
-  <img src="https://github.com/Leevandr/Tasks/blob/master/Vp3L.gif"  style="flex: 1; max-width: 100%;" >    
-</div>
 
 
 
