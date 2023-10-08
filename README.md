@@ -22,9 +22,19 @@
 
 
 <div align="center" style="background-color: #f3f3f3; padding: 10px;">
+  <h2 style="font-family: 'Arial', sans-serif; color: #333;">My GitLab</h2>
+  <a href="https://gitlab.com/Leevandr">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" style="width: 150px;">
+  </a>
+</div>
+
+
+<div align="center" style="background-color: #f3f3f3; padding: 10px;">
   <h2 style="font-family: 'Arial', sans-serif; color: #333;">My Technologies</h2>
 </div>
 
+
+[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/Leevandr)
 [![Java Badge](https://img.shields.io/badge/Java-FF8000?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
