@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">My Website <a href="https://t.me/leevandr" target="_blank">https://levandr.me/</a> 
+<h1 align="center">My Website <a href="https://levandr.me/" target="_blank">levandr.me</a> 
 
 <h1 align="center">Sup, I'm <a href="https://t.me/leevandr" target="_blank">Levandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
