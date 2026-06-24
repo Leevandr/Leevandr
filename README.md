@@ -1,67 +1,56 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
-</div>
-
-<h1 align="center">My Website <a href="https://levandr.me/" target="_blank">levandr.me</a> 
-
-<h1 align="center">Sup, I'm <a href="https://t.me/leevandr" target="_blank">Levandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Lev Ustimenko</h1>
 
 <p align="center">
-  <a href="https://github.com/Leevandr" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end+Dev+-+Java+Core%2C+Spring+Framework,+Go&font=Fira%20Code&center=true&width=550&height=70"/>
-  </a>
+  Backend engineer focused on Java/Spring, Go, Python, payment systems, Telegram bots, automation, and Solana tooling.
 </p>
-
-
 
 <p align="center">
-  <a href="https://github.com/Leevandr" style="text-decoration: none;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leevandr&theme=solarized_dark"/>
-  </a>
+  <a href="https://levandr.me">levandr.me</a> |
+  <a href="https://t.me/leevandr">Telegram</a> |
+  <a href="https://gitlab.com/Leevandr">GitLab</a>
 </p>
 
+## Focus
 
+- Backend services: REST APIs, auth, payments, processing, bots, and external integrations.
+- JVM stack: Java, Spring Boot, Maven/Gradle, PostgreSQL, MySQL, Redis, and Kafka-oriented services.
+- Go and Python: automation, analytics, parsers, desktop utilities, and internal tooling.
+- Solana/Web3: API analytics, token tooling, smart-contract experiments, relayers, and trading infrastructure research.
+- Product engineering: prototypes, admin tools, calculators, marketplaces, and audit-ready delivery artifacts.
 
-<div align="center" style="background-color: #f3f3f3; padding: 10px;">
-  <h2 style="font-family: 'Arial', sans-serif; color: #333;">My GitLab</h2>
-  <a href="https://gitlab.com/Leevandr">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" style="width: 150px;">
-  </a>
-</div>
+## Selected Public Work
 
+| Project | Focus |
+| --- | --- |
+| [mcp-divers](https://github.com/Leevandr/mcp-divers) | MCP integration and research tooling around Solana/Divers workflows. |
+| [fastQT6](https://github.com/Leevandr/fastQT6) | Qt6 desktop tooling and UI experiments. |
+| [pymysql-dist](https://github.com/Leevandr/pymysql-dist) | Python/MySQL packaging and distribution work. |
+| [heliusApiAnalyzer](https://github.com/Leevandr/heliusApiAnalyzer) | Helius API and Solana analytics experiments. |
+| [solana-pumpfun-smart-contract](https://github.com/Leevandr/solana-pumpfun-smart-contract) | Solana smart-contract experiments around token launch flows. |
+| [custom-payment-system](https://github.com/Leevandr/custom-payment-system) | Payment system backend practice. |
+| [taskSelsup](https://github.com/Leevandr/taskSelsup) | Java backend technical task. |
 
-<div align="center" style="background-color: #f3f3f3; padding: 10px;">
-  <h2 style="font-family: 'Arial', sans-serif; color: #333;">My Technologies</h2>
-</div>
+## Current Direction
 
+Most recent product and infrastructure work is private, so the public profile is intentionally scoped to representative projects and areas of expertise. I am consolidating public repositories toward clearer READMEs, run instructions, configuration examples, and auditable project structure.
 
-[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/Leevandr)
-[![Java Badge](https://img.shields.io/badge/Java-FF8000?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+## Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana" />
+</p>
 
+## GitHub Snapshot
 
 <p align="center">
-  <a href="https://github.com/Leevandr" style="text-decoration: none;">
-    <img src="https://leetcard.jacoblin.cool/Levandr?theme=nord&font=BIZ%20UDMincho&ext=activity"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leevandr&theme=github_dark" alt="GitHub profile details" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
